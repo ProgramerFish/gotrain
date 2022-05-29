@@ -1,3 +1,3 @@
-module github.com/ProgramerFish/gotrain/greetings v0.5.29
+module github.com/ProgramerFish/gotrain/greetings
 
 go 1.18

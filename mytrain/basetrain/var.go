@@ -7,6 +7,8 @@ var Id1, Id2 int                 //public
 const myconst = "wmy"
 const Myconst1 = "wmy"
 
+//_变量测试接口方法是否实现 var _ Phone = new(Xiaomi)
+
 func pri_func() int {
 	return 0
 }
